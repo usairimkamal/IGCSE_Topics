@@ -1,2 +1,3 @@
-# IGCSE_Topics
-Topics for IGCSE, with including English, Math, Biology, Chemistry, Physics and more.
+## IGCSE Subjects
+
+Explore a wide range of IGCSE subjects, including English, Mathematics, Biology, Chemistry, Physics, Computer Science, Geography, History, Business Studies, Economics, Accounting, Environmental Management, Global Perspectives, Art & Design, Psychology, Sociology, and more. Each subject can include important topics, lessons, notes, examples, practice questions, quizzes, revision materials, and past-paper practice. Students can learn topics step by step, review difficult concepts, and prepare for their IGCSE exams. The goal is to make learning simple, organized, and easy to understand while covering the key knowledge and skills needed for each subject.
